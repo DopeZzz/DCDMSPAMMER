@@ -1,2 +1,2 @@
 # DcDmSpammer
-A simple DC dm spammer
+A simple discord dm spammer
